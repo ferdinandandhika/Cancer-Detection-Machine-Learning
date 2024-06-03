@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cancer Scan</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analisis</string>
+    <string name="result">Hasil Analisis</string>
+
+    <string name="no_image">Pilih Gambar Terlebih dahulu Untuk di Analyze</string>
+    <string name="unselect_image">Silahkan Pilih Gambar</string>
+</resources>
